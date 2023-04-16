@@ -1,2 +1,3 @@
 # Runge-Kutta
-This program is written in Python and uses the Runge-Kutta method to approximate the numerical solutions of first-order and second-order initial value problems for ordinary differential equations./本程序使用Python编写，使用龙格-库塔方法分别求解一阶和二阶常微分方程的初值问题以获得数值逼近解。
+本程序使用Python编写，使用龙格-库塔方法分别求解一阶和二阶常微分方程的初值问题以获得数值逼近解。通过修改相关参数和重新定义函数，可以以指定的精度求解指定的常微分方程初值问题数值解。代码中有详细注释以帮助您更好地理解其内容。/
+This program is written in Python and uses the Runge-Kutta method to approximate the numerical solutions of first-order and second-order initial value problems for ordinary differential equations. By modifying relevant parameters and redefining functions, the numerical solutions for specific initial value problems of ordinary differential equations can be obtained with specified accuracy. The code contains detailed comments to help you better understand its content.
